@@ -647,5 +647,6 @@ public class OutputText extends Activity {
     <!-- 向SD卡写入数据权限 -->
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 ```
-![6](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/6.png)
-![6.2](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/6(1).png)
+![6.2](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/6%20(2).png)
+![6](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/6%20(1).png)
+
