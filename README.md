@@ -227,8 +227,8 @@ public class NoteSearch extends ListActivity implements SearchView.OnQueryTextLi
 实现功能三:UI美化
 ```
 将主背景设置为白色，将大部分功能用中文表达
-![3](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/4(1).png)
-![4](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/4(2).png)
+![3](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/4%20(1).png)
+![4](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/4%20(2).png)
 ```
 实现功能四:改变背景颜色
 ```
