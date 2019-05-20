@@ -1,6 +1,15 @@
 # NotePad
 This is an AndroidStudio rebuild of google SDK sample NotePad
 ```
+共实现功能:
+1、时间戳
+2、搜索框
+3、UI美化
+4、每条记事栏有各自的颜色
+5、排序
+6、导出
+```
+```
 功能实现一：时间戳
 ```
 首先给notelist_item.xml文件加一个线性布局，再在其中加入时间的TextView布局
