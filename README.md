@@ -665,3 +665,9 @@ public class OutputText extends Activity {
 ![6.2](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/6%20(2).png)
 ![6](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/6%20(1).png)
 
+
+```
+实现功能6：排序
+```
+效果图:
+![6](https://raw.githubusercontent.com/FOOLBUTDILIGENT/images/master/Note/paixv.gif)
